@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import SkyStatus from "./SkyStatus";
-import EveryDayForcast from "./EveryDayForcast";
-
+import EveryDayForcast from "./EveryDayForecast";
 function WeatherData() {
     // location data
     // const locationRef = useRef();
